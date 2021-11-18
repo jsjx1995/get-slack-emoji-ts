@@ -1,4 +1,4 @@
-# Output the Channnel List Program
+# Get all custom emoji in work space
 
 1. set the slack bot token in `.env` file as following
 
